@@ -1,0 +1,28 @@
+.card-container {
+  height: 140px;
+  background: #ffebd1;
+  width: 500px;
+  border-radius: 16px;
+  margin: 0px 42px;
+  padding-right:8px;
+}
+
+.icon-dsg {
+  height: 32px;
+  width: 32px;
+  float: left;
+  margin: 8px 12px 0px 6px;
+}
+
+.text-aligner {
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-top: 12px;
+}
+
+.skill-desc {
+  font-size: 14px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: left;
+  padding-left: 12px;
+}

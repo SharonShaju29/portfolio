@@ -1,0 +1,13 @@
+.content-wrapper {
+  margin: 10px;
+  height: 60px;
+  width: 60px;
+  background: #F2F5F9;
+  border-radius: 8px;
+}
+
+.social-link {
+  margin: 5px;
+  height: 48px;
+  width: 48px;
+}
