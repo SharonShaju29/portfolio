@@ -7,9 +7,9 @@ function ContentRouter() {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<AboutMe/>} />
-        <Route path="/work"  element={<WorkExperience/>}/>
-        <Route path="/skills" element={<Skills/>}/>
+        <Route path="/portfolio" element={<AboutMe/>} />
+        <Route path="/portfolio/work"  element={<WorkExperience/>}/>
+        <Route path="/portfolio/skills" element={<Skills/>}/>
       </Routes>
     </div>
   );
