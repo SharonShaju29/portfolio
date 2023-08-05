@@ -1,0 +1,17 @@
+.title-wrapper {
+    display: flex;
+}
+
+.horizontal-liner {
+    height:2px;
+    width:300px;
+    background:orange;
+    margin:34px;
+}
+
+.list-item-wrapper{
+   margin: 0 40px;
+   display:grid;
+   grid-template-columns: auto auto;
+
+}

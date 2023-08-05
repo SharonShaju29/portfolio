@@ -29,7 +29,7 @@ function ContactDetails() {
         type={contactDetails.location.type}
         info={contactDetails.location.info}
       />
-      <Button className="button"><Image src={downloadArrow} className="download"/><div className="download-text">Download Resume</div></Button>
+      <a href="https://drive.usercontent.google.com/download?id=121gQlt4J1iWK1psg3ecFCTpm1zUnp-Zs&export=download&authuser=1&confirm=t&uuid=d9def659-a5fa-4690-8448-1d99b73d8a4c&at=AC2mKKSVNcfRjalrnKGOlArdLhu1:1691264477630" download="sharon-shaju_resume.pdf"><Button className="button"><Image src={downloadArrow} className="download"/><div className="download-text">Download Resume</div></Button></a>
     </div>
   );
 }

@@ -1,0 +1,29 @@
+.description-wrapper {
+  height: 280px;
+  width: 600px;
+  background: #ffebd1;
+  border-radius: 16px;
+  margin: 20px;
+  padding-top:20px; 
+}
+
+.info-wrapper {
+  float: left;
+  margin-left: 20px;
+  width: 600px;
+}
+
+.title-dsg {
+  text-align: left;
+}
+
+.year {
+  color: grey;
+  text-align: left;
+}
+
+.work-description {
+  text-align: left;
+  padding-left: 20px;
+  margin-top: -20px;
+}

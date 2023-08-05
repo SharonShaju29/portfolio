@@ -1,9 +1,9 @@
 import './css/mainContent.css'
-import AboutMe from './aboutMe'
+import ContentRouter from './contentRouter'
 
 function MainContent() {
     return <div className="main-content-wrapper">
-     <AboutMe/>
+     <ContentRouter/>
     </div>
 }
 
