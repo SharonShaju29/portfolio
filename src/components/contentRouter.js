@@ -6,10 +6,10 @@ import Skills from "./skillsInfo.js";
 function ContentRouter() {
   return (
     <div>
-      <Routes>
-        <Route path="/portfolio" element={<AboutMe/>} />
-        <Route path="/portfolio/work"  element={<WorkExperience/>}/>
-        <Route path="/portfolio/skills" element={<Skills/>}/>
+      <Routes basename="/portfolio">
+        <Route exact path="/portfolio" element={<AboutMe/>} />
+        <Route path="/work"  element={<WorkExperience/>}/>
+        <Route path="/skills" element={<Skills/>}/>
       </Routes>
     </div>
   );
