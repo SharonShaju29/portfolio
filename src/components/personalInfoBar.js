@@ -1,6 +1,6 @@
 import "./css/personalInfo.css";
 import Image from "react-bootstrap/Image";
-import Profile from "../Assets/profile.jpeg";
+import Profile from "../Assets/profilephoto.jpeg";
 import SocialLink from "./socialLink";
 import facebook from "../Assets/facebook.svg";
 import git from "../Assets/git.svg";
