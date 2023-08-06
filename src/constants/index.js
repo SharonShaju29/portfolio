@@ -24,7 +24,7 @@ const constants = {
     {
       name: "Web Development",
       content:
-        "I am a passionate about web development, always engage myself in enhancing the User experience. I'm always eager to dive projects that leverage Vue and React.",
+        "I am a passionate about web development, always engage myself in enhancing the User experience by creative designs. I'm always eager to dive into projects that leverage Vue and React.",
     },
     {
       name: "Research & Development",
@@ -35,7 +35,7 @@ const constants = {
   internDescription:
     " Worked on a project named Tiket & voucher which is used in indonesia for Utilized Vue JS Framework to create interactive user interfaces. Worked on resolving bugs, improvements and features. Gained Knowledge of project management tool such as Jira. Worked on improving the quality of the code. Gained Hands-on experience software DevOps tool such as Jenkins booking tickets for events and buying vouchers.",
   aboutMe:
-    "Hello there! I'm thrilled to welcome you to my portfolio. Experienced Vue JS Developer adept in all stages of advanced web development. Knowledgeable in user interface, unit testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient and have hands on experience on state management library    such as  vuex and routing library such as vue-router. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.",
+    "Hello there! I'm thrilled to welcome you to my portfolio. Experienced Vue JS Developer adept in all stages of advanced web development. Knowledgeable in user interface, unit testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient and have hands on experience on state management library such as vuex and routing library such as vue-router. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.",
   technicalSkills: [
     "Vue JS",
     "React JS",
