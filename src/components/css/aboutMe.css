@@ -25,3 +25,21 @@
     text-align: left;
     padding:0px 42px;
 }
+
+@media screen and (max-width:700px) {
+    .horizontal-line{
+        width:70px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .horizontal-line{
+        width:35px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .horizontal-line{
+        display: none;
+    }
+}

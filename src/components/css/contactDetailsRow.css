@@ -1,24 +1,45 @@
 .detail-row {
-    display:flex;
-    text-align: left;
-    font-size:12px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-bottom: 1px solid lightgray;
-    margin:0 20px 0 20px;
-    padding-top: 12px;
+  display: flex;
+  text-align: left;
+  font-size: 12px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-bottom: 1px solid lightgray;
+  margin: 0 20px 0 20px;
+  padding-top: 12px;
 }
 
 .detail-row-type {
-    color:gray;
+  color: gray;
 }
 
 .detail-row-info {
-    font:bold;
+  font: bold;
 }
 
 .icon {
-    height:32px;
-    width:32px;
-    margin:0px 16px 16px 20px;
-   
+  height: 32px;
+  width: 32px;
+  margin: 0px 16px 16px 20px;
 }
+
+@media screen and ( max-width: 960px) {
+  .detail-row {
+    display: inline-grid;
+  }
+  .icon {
+    margin-left:0px;
+  }
+}
+
+@media screen and ( max-width: 640px) {
+    .detail-row {
+      display: flex;
+      margin-left: calc((80vw - 250px)/2);
+      margin-right: calc((80vw - 250px)/2);
+    }
+    .icon {
+        margin-left:20px;
+      }
+  }
+  

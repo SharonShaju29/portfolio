@@ -10,6 +10,10 @@ function WorkDescription() {
         <h4 className="title-dsg">
           Software Developer Intern at Quinbay Technologies - Coimbatore
         </h4>
+        <div className="lister">
+        <h4>Software Developer Intern</h4>
+          <h5>Quinbay Technologies</h5>
+        </div>
         <h5 className="year">August 2022 - August 2023</h5>
       </div>
       <p className="work-description">{internDescription}</p>

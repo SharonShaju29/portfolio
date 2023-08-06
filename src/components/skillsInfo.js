@@ -11,7 +11,7 @@ function Skills() {
     <div>
       <div className="title-wrapper">
         <Image src={TechnicalSkills} className="image-dsg" />
-        <h2>Technical Skills</h2>
+        <h2>Skills</h2>
         <div className="horizontal-liner" />
       </div>
       <div className="list-item-wrapper">

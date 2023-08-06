@@ -8,8 +8,8 @@ function WorkExperience() {
   return <div>
     <div className="work-title-header">
     <Image src={internship} className="image-dsg"/>
-    <h2 className="title-dsg">Internships</h2>
-    <div className="horizontal-ruler"/>
+    <h2 className="title">Internships</h2>
+    <div className="horizontal-line"/>
   </div>
   <Image src={quinbay} className="work-place"/>
   <WorkDescription/>

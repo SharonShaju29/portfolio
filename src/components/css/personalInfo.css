@@ -35,3 +35,25 @@
     margin:10px;
     justify-content:space-between;
 }
+
+
+@media screen and (max-width: 960px){
+    .personal-info-container {
+        width: 90vw;
+        position: initial;
+        margin-top: 150px;
+        margin-left: 5vw;
+    }
+
+    .social-links-wrapper {
+        margin:0px 15vw;
+        width:60vw;
+    }
+  }
+ 
+  @media screen and (max-width: 400px){
+    .social-links-wrapper{
+        margin:0px 5vw;
+        width:80vw;
+    }
+  }

@@ -12,6 +12,14 @@
 .list-item-wrapper{
    margin: 0 40px;
    display:grid;
+   justify-content: center;
    grid-template-columns: auto auto;
 
+}
+
+
+@media screen and (max-width:700px) {
+    .list-item-wrapper {
+        display: inline-block;
+    }
 }
