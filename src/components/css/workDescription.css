@@ -5,12 +5,12 @@
   border-radius: 16px;
   margin: 20px;
   padding-top:20px; 
+  display: grid;
 }
 
 .info-wrapper {
   float: left;
   margin-left: 20px;
-  width: 600px;
 }
 
 .title-dsg {
@@ -36,6 +36,9 @@
     padding-bottom:5px;
     margin-top:20px;
   }
+  .work-description {
+    margin-top: 0px;
+  }
 }
 
 .lister{
@@ -51,10 +54,6 @@
     display: block;
    text-align: left;
    margin-left: 0px;
-  }
-
-  .info-wrapper{
-    width:70vw;
   }
 }
 
