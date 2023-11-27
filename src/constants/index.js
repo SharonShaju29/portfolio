@@ -33,23 +33,23 @@ const constants = {
     },
   ],
   internDescription:
-    " Worked on a project named Tiket & voucher which is used in indonesia for Utilized Vue JS Framework to create interactive user interfaces. Worked on resolving bugs, improvements and features. Gained Knowledge of project management tool such as Jira. Worked on improving the quality of the code. Gained Hands-on experience software DevOps tool such as Jenkins booking tickets for events and buying vouchers.",
+    "Worked on a project named Ticket & voucher which is used in indonesia for booking tickets for events and buying vouchers. Utilized Vue JS Framework to create interactive user interfaces. Worked on resolving bugs, improvements and features.Gained Knowledge of project management tool such as Jira. Worked on improving the quality of the code. Gained Hands-on experience software DevOps tool such as Jenkins",
   aboutMe:
-    "Hello there! I'm thrilled to welcome you to my portfolio. Experienced Vue JS Developer adept in all stages of advanced web development. Knowledgeable in user interface, unit testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient and have hands on experience on state management library such as vuex and routing library such as vue-router. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.",
+    "Hello there! I'm thrilled to welcome you to my portfolio. Passionate Front End Developer adept in all stages of Web Development. Knowledgeable in user interface, unit testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web system. Equipped with a diverse and promising skill-set. Proficient and have hands on experience on state management library such as vuex and routing library such as vue-router. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.",
   technicalSkills: [
     "Vue JS",
     "React JS",
     "Javascript",
-    "HTML & CSS",
+    "HTML5 & CSS3",
     "Java",
     "Jira",
     "Jest",
     "Jenkins",
     "Problem Solving",
-    "Python",
+    "Playwright.js",
     "Artificial Intelligence",
-    "Playwright JS",''
-  ]
+    "Socket.io",
+  ],
 };
 
 export default constants;

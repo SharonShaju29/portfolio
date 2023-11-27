@@ -16,7 +16,7 @@ function AboutMe() {
       <div className="para-wrapper">
         <p>{aboutMe}</p>
       </div>
-      <h2 className="heading-text">What I do!</h2>
+      <div className="heading-text">What I do!</div>
       <div>
          <SkillCardAbout image={code} name={skillsDesc[0].name} content={skillsDesc[0].content}/>
          <div ><SkillCardAbout image={research} name={skillsDesc[1].name} content={skillsDesc[1].content}/></div>

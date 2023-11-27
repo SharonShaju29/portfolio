@@ -16,7 +16,7 @@ function PersonalInfoBar() {
     <div className="personal-info-container">
       <Image src={Profile} className="profile-img" />
       <h2 className="profile-name">Sharon Shaju</h2>
-      <h4 className="profile-role">Software Developer</h4>
+      <h4 className="profile-role">Front End Developer</h4>
       <div className="social-links-wrapper">
         <SocialLink src={facebook} url={socialLinks.facebook} />
         <SocialLink src={git} url={socialLinks.git} />

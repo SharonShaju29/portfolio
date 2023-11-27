@@ -11,7 +11,7 @@ function WorkExperience() {
     <h2 className="title">Internships</h2>
     <div className="horizontal-line"/>
   </div>
-  <Image src={quinbay} className="work-place"/>
+  <a href="https://www.quinbay.com/" target='_blank' ><Image src={quinbay} className="work-place"/></a>
   <WorkDescription/>
    </div>
 }
